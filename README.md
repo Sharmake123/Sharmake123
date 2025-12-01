@@ -12,7 +12,7 @@
 - 🎯 Passionate about **DS | ML | DL | LLMs | GenAI | MERN Stack | Python**
 - 🌱 Currently learning **Data science & Machine learning, and model Deployment**
 - 💡 Open to collaborating on **MERN Stack projects, AI applications & Open-Source contributions**
-- 📫 Reach me at **patilbhuvan27@gmail.com**  
+- 📫 Reach me at **sharmacadenuur2017@gmail.com**  
 - ⚡ Fun fact: I love exploring futuristic tech & building innovative digital experiences 🚀  
 
 ---
