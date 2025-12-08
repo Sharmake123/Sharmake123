@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m a **Final year student** pursuing a **B. Tech.** degree from **JUST**,in **CSE** and doing my **Honors in DS**
 - 🎯 Passionate about **DS | ML | DL | LLMs | GenAI | MERN Stack | Python**
-- 🌱 Currently learning **Data science & Machine learning, and model Deployment**
+- 🌱 Currently learning **Data science & Machine learning, and model Deployment** & **Junior Mobile Developer** **Flutter*
 - 💡 Open to collaborating on **MERN Stack projects, AI applications & Open-Source contributions**
 - 📫 Reach me at **sharmacadenuur2017@gmail.com**  
 - ⚡ Fun fact: I love exploring futuristic tech & building innovative digital experiences 🚀  
